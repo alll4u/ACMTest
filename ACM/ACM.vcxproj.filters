@@ -18,5 +18,8 @@
     <ClCompile Include="Ananagrams.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UglyNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

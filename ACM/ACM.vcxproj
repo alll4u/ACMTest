@@ -66,6 +66,7 @@
   <ItemGroup>
     <ClCompile Include="Ananagrams.cpp" />
     <ClCompile Include="UglyNumbers.cpp" />
+    <ClCompile Include="WhereIsTheMarble.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
